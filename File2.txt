@@ -1,3 +1,4 @@
 gnew
 cherif
+This is second file to be merged
 
